@@ -8,7 +8,7 @@ CURRENCY = 'USD'
 URL = "https://hotels4.p.rapidapi.com/locations/v2/search"
 HEADERS = {
     'x-rapidapi-host': "hotels4.p.rapidapi.com",
-    'x-rapidapi-key': "e161630d38msh46ef8e8a5aa3f7ep184e7fjsn0a81f1e82b70"
+    'x-rapidapi-key': "enter your rapidapi key"
 }
 
 n = 0
