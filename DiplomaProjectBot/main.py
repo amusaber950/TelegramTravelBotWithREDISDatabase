@@ -11,7 +11,7 @@ from typing import Any
 
 calendar = Calendar(language=RUSSIAN_LANGUAGE)
 calendar_1_callback = CallbackData("calendar_1", "action", "year", "month", "day")
-bot = telebot.TeleBot("5129493162:AAGRA0RMii3_BYCqqawg594mUR4P66-sHY0", parse_mode=None)
+bot = telebot.TeleBot("*********", parse_mode=None)
 
 bot.set_my_commands([
     telebot.types.BotCommand("/start", "Main Menu"),
